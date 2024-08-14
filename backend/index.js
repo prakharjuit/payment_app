@@ -6,7 +6,7 @@ const accountRoutes = require("./routes/accountRoutes");
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://payment-app-frontend-qt4z.onrender.com/",
     credentials: true,
   })
 );
