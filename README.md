@@ -1,6 +1,11 @@
 # Payments App
 
 Welcome to the Payments App! This project provides a secure platform for transferring money, managing user accounts, and viewing transaction details. It consists of both frontend and backend components.
+![image](https://github.com/user-attachments/assets/891c3ee3-c61e-4926-ac6d-e72480271fb2)
+
+![image](https://github.com/user-attachments/assets/b59f9ccf-a63b-4e67-af9f-7ece9b5f7834)
+
+![image](https://github.com/user-attachments/assets/a235259c-d74a-41c2-8d58-654ef10d1766)
 
 ## Features
 
